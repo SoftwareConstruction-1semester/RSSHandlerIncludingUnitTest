@@ -22,9 +22,16 @@ namespace UnitTestProject1
             Assert.IsTrue(items.FirstOrDefault() != null);
 
             // test if it has a channel tag
-            IEnumerable<XElement> items = xdoc.Descendants("channel");
-            Assert.IsTrue(items.FirstOrDefault() != null);
+            IEnumerable<XElement> channel = xdoc.Descendants("channel");
+            Assert.IsTrue(channel.FirstOrDefault() != null);
+        }
 
+        [TestMethod]
+        public void TestRetrieveArticles()
+        {
+            string fakeRSS = @"fakeRSSfeed.xml";
+            XDocument xdoc = RssHandler.LoadRSS(fakeRSS);
+            
         }
     }
 }
