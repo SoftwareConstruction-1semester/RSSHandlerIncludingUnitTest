@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,8 +27,15 @@ namespace RSSHandler
         /// <returns></returns>
         public static List<String> RetrieveTitles(XDocument RssFeed)
         {
-            return new List<string>();
-        }
+            List<String> titles = new List<string>();
+            IEnumerable <XElement> items = RssFeed.Descendants("item");
+            foreach (XElement title in items)
+            {
+                titles.Add(title.Element("title").Value);
+            }
+            return titles;
+
+        } 
 
         public static String LatestArticle()
         {
