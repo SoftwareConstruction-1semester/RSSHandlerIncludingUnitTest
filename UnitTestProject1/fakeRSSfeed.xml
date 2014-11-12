@@ -1,0 +1,448 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='http://rss.nytimes.com/xsl/eng/rss.xsl'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml" />
+    <title>NYT &gt; Technology</title>
+    <link>http://www.nytimes.com/pages/technology/index.html?partner=rss&amp;emc=rss</link>
+    <description>Technology</description>
+    <language>en-us</language>
+    <copyright>Copyright 2014 The New York Times Company</copyright>
+    <pubDate>Wed, 12 Nov 2014 06:03:53 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2014 06:03:53 GMT</lastBuildDate>
+    <ttl>2</ttl>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/technology/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/world/asia/china-us-xi-obama-apec.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>U.S. and China Reach Climate Deal After Months of Talks</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4061615e/sc/1/l/0L0Snytimes0N0C20A140C110C120Cworld0Casia0Cchina0Eus0Exi0Eobama0Eapec0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The deal between the nations, the world’s No. 1 and No. 2 carbon polluters, is viewed as essential to concluding a new global accord on climate change.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4061615e/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597477800/u/192/f/640387/c/34625/s/4061615e/sc/1/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Asia-Pacific Economic Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <pubDate>Wed, 12 Nov 2014 03:40:31 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/world/asia/china-us-xi-obama-apec.html</guid>
+      <dc:creator>By MARK LANDLER</dc:creator>
+      <media:credit scheme="urn:ebu">Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Obama and President Xi Jinping of China held a news conference at the Great Hall of the People in Beijing on Wednesday.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/12/world/12prexy-hp-02/12prexy-hp-02-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/09/nyregion/two-apps-focus-on-public-need-in-new-york.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>App City: Two Apps Focus on Public Need in New York</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4050fef0/sc/4/l/0L0Snytimes0N0C20A140C110C0A90Cnyregion0Ctwo0Eapps0Efocus0Eon0Epublic0Eneed0Ein0Enew0Eyork0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>With Heatseek NYC and Tug, two noteworthy apps that recently won competitions, developers turned their attention to the public need.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4050fef0/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Heating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tug (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Heat Seek NYC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thermostats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Flatiron School, The</category>
+      <pubDate>Wed, 12 Nov 2014 03:36:37 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/09/nyregion/two-apps-focus-on-public-need-in-new-york.html</guid>
+      <dc:creator>By JONAH BROMWICH</dc:creator>
+      <media:credit scheme="urn:ebu">Christoph Hitz for The New York Times</media:credit>
+      <media:description />
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/09/nyregion/09APP/09APP-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/business/media/small-labels-and-youtube-enter-deal-on-licensing.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Small Labels and YouTube Enter Deal on Licensing</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/40639579/sc/4/l/0L0Snytimes0N0C20A140C110C120Cbusiness0Cmedia0Csmall0Elabels0Eand0Eyoutube0Eenter0Edeal0Eon0Elicensing0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>YouTube has been developing features that would preserve its free model, but also give paying subscribers more extensive access to music.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/40639579/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597479237/u/192/f/640387/c/34625/s/40639579/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royalties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Audio Recordings, Downloads and Streaming</category>
+      <pubDate>Wed, 12 Nov 2014 02:15:25 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/business/media/small-labels-and-youtube-enter-deal-on-licensing.html</guid>
+      <dc:creator>By BEN SISARIO</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/technology/call-for-open-internet-sets-up-fight-over-rules.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Obama’s Call for Net Neutrality Sets Up Fight Over Rules</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/40639573/sc/46/l/0L0Snytimes0N0C20A140C110C120Ctechnology0Ccall0Efor0Eopen0Einternet0Esets0Eup0Efight0Eover0Erules0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Virtually everyone agrees that some rules written to regulate telephone service should not apply to the Internet but there are disagreements about what rules should survive.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/40639573/sc/46/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597479233/u/192/f/640387/c/34625/s/40639573/sc/46/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">AT&amp;T Inc|T|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Net Neutrality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <pubDate>Wed, 12 Nov 2014 01:42:57 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/technology/call-for-open-internet-sets-up-fight-over-rules.html</guid>
+      <dc:creator>By EDWARD WYATT</dc:creator>
+      <media:credit scheme="urn:ebu">Jacquelyn Martin/Associated Press</media:credit>
+      <media:description>President Obama has urged Tom Wheeler, right, chairman of the F.C.C., to reclassify broadband Internet service to treat it more like a utility.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/12/business/net/net-moth-v2.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/11/yahoo-buys-brightroll-a-video-ad-platform-for-640-million/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Yahoo Buys BrightRoll, a Video Ad Platform, for $640 Million</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4062bd23/sc/21/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C110Cyahoo0Ebuys0Ebrightroll0Ea0Evideo0Ead0Eplatform0Efor0E640A0Emillion0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The purchase, which had been rumored for weeks, was the Internet company’s largest acquisition since it bolstered its coffers with $6.3 billion from the Alibaba initial public offering.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4062bd23/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597436108/u/192/f/640387/c/34625/s/4062bd23/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Yahoo! Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Yahoo! Inc|YHOO|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Mobile</category>
+      <category domain="http://www.nytimes.com/namespaces/">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/">Mayer, Marissa</category>
+      <category domain="http://www.nytimes.com/namespaces/">Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Wed, 12 Nov 2014 00:36:24 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/11/yahoo-buys-brightroll-a-video-ad-platform-for-640-million/</guid>
+      <dc:creator>By VINDU GOEL</dc:creator>
+      <media:credit scheme="urn:ebu">David McIntyre</media:credit>
+      <media:description>Marissa Mayer, Yahoo’s chief executive, speaking in April at the NewFronts, an advertising industry event. Ms. Mayer said on Tuesday that BrightRoll would “dramatically strengthen” Yahoo’s video advertising platform.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/business/11bits-yahoo/11bits-yahoo-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/business/media/taylor-swifts-stand-on-royalties-draws-a-rebuttal-from-spotify.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Chief Defends Spotify After Snub by Taylor Swift</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/40614f6b/sc/21/l/0L0Snytimes0N0C20A140C110C120Cbusiness0Cmedia0Ctaylor0Eswifts0Estand0Eon0Eroyalties0Edraws0Ea0Erebuttal0Efrom0Espotify0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The decision by Ms. Swift to remove her entire catalog from Spotify has intensified a debate over royalties paid by streaming music services.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/40614f6b/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597474641/u/192/f/640387/c/34625/s/40614f6b/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royalties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sixx, Nikki</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">iTunes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borchetta, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Recording Industry Assn of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blacc, Aloe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Spotify</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ek, Daniel</category>
+      <pubDate>Tue, 11 Nov 2014 23:30:46 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/business/media/taylor-swifts-stand-on-royalties-draws-a-rebuttal-from-spotify.html</guid>
+      <dc:creator>By BEN SISARIO</dc:creator>
+      <media:credit scheme="urn:ebu">Powers Imagery/Invision, via Associated Press</media:credit>
+      <media:description>Taylor Swift in September. She has removed all her music from Spotify. Her new album, “1989,” sold nearly 1.3 million copies in its first week.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/12/business/spotify/spotify-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/11/european-antitrust-regulators-to-hold-discussions-with-googles-rivals/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: European Antitrust Regulators to Hold Discussions With Google’s Rivals</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/406299bd/sc/24/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C110Ceuropean0Eantitrust0Eregulators0Eto0Ehold0Ediscussions0Ewith0Egoogles0Erivals0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The European Union’s competition commissioner wants to hear what companies most concerned about Google’s practices have to say before resolving a longstanding antitrust case.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/406299bd/sc/24/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597482934/u/192/f/640387/c/34625/s/406299bd/sc/24/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/">European Parliament</category>
+      <category domain="http://www.nytimes.com/namespaces/">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc|GOOGL|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Almunia, Joaquin</category>
+      <category domain="http://www.nytimes.com/namespaces/">Vestager, Margrethe</category>
+      <category domain="http://www.nytimes.com/namespaces/">Policy</category>
+      <pubDate>Tue, 11 Nov 2014 23:10:23 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/11/european-antitrust-regulators-to-hold-discussions-with-googles-rivals/</guid>
+      <dc:creator>By JAMES KANTER</dc:creator>
+      <media:credit scheme="urn:ebu">Jens Noergaard Larsen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Margrethe Vestager, Europe's new antitrust chief, in September. Google has faced an increasing barrage of criticism in Europe over privacy.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/business/11bits-eugoogle/11bits-eugoogle-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/11/google-chromecast-adds-games/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Google Chromecast Adds Games</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4060aa62/sc/15/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C110Cgoogle0Echromecast0Eadds0Egames0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Google’s Chromecast streaming device now has the ability to let people play video games in tandem.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4060aa62/sc/15/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597472040/u/192/f/640387/c/34625/s/4060aa62/sc/15/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/">Gaming</category>
+      <category domain="http://www.nytimes.com/namespaces/">Television Sets and Media Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/">Google Inc|GOOGL|NASDAQ</category>
+      <pubDate>Tue, 11 Nov 2014 22:26:16 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/11/google-chromecast-adds-games/</guid>
+      <dc:creator>By CONOR DOUGHERTY</dc:creator>
+      <media:credit scheme="urn:ebu">Jaime Henry-White/Associated Press</media:credit>
+      <media:description>Google’s Chromecast allows people to stream content from their mobile phones and tablets onto TVs.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/business/11bits-chromecast/11bits-chromecast-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/11/made-up-holiday-in-china-but-real-revenues-for-online-retailers/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: For Online Retailers Like Alibaba, Singles’ Day in China Is a Bonanza</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/405e07c1/sc/1/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C110Cmade0Eup0Eholiday0Ein0Echina0Ebut0Ereal0Erevenues0Efor0Eonline0Eretailers0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>On Singles’ Day, Chinese Internet users showed just how ingrained online shopping has become in the country.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/405e07c1/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597463274/u/192/f/640387/c/34625/s/405e07c1/sc/1/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">China</category>
+      <category domain="http://www.nytimes.com/namespaces/">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/">Tmall</category>
+      <category domain="http://www.nytimes.com/namespaces/">E-Commerce</category>
+      <pubDate>Tue, 11 Nov 2014 21:29:21 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/11/made-up-holiday-in-china-but-real-revenues-for-online-retailers/</guid>
+      <dc:creator>By PAUL MOZUR and SHANSHAN WANG</dc:creator>
+      <media:credit scheme="urn:ebu">Aly Song/Reuters</media:credit>
+      <media:description>Tmall employees working in Hangzhou, China, early on Tuesday. Singles’ Day is crucial for many small- and medium-size retailers in China.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/business/11bits-singles/11bits-singles-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/13/technology/in-net-neutrality-debate-tech-giants-on-the-sidelines.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>State of the Art: In Net Neutrality Push, Internet Giants on the Sidelines</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4061e3c6/sc/46/l/0L0Snytimes0N0C20A140C110C130Ctechnology0Cin0Enet0Eneutrality0Edebate0Etech0Egiants0Eon0Ethe0Esidelines0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Companies like Facebook and Google have stayed away from mobilizing their users to support an issue that primarily affects smaller Internet upstarts.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4061e3c6/sc/46/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597470621/u/192/f/640387/c/34625/s/4061e3c6/sc/46/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Net Neutrality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <pubDate>Tue, 11 Nov 2014 20:27:20 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/13/technology/in-net-neutrality-debate-tech-giants-on-the-sidelines.html</guid>
+      <dc:creator>By FARHAD MANJOO</dc:creator>
+      <media:credit scheme="urn:ebu">Stuart Goldenberg</media:credit>
+      <media:description />
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/13/business/13state-illo/13state-illo-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/business/net-neutrality-debate-access-and-costs-are-top-issues.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Economic Scene: Net Neutrality Debate: Internet Access and Costs Are Top Issues</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4061615a/sc/46/l/0L0Snytimes0N0C20A140C110C120Cbusiness0Cnet0Eneutrality0Edebate0Eaccess0Eand0Ecosts0Eare0Etop0Eissues0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>After President Obama urged the F.C.C. to set tougher net neutrality rules, questions loom about decreased competition and the cost of monitoring.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4061615a/sc/46/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597477799/u/192/f/640387/c/34625/s/4061615a/sc/46/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Net Neutrality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmelman, Gene</category>
+      <pubDate>Tue, 11 Nov 2014 19:24:50 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/business/net-neutrality-debate-access-and-costs-are-top-issues.html</guid>
+      <dc:creator>By EDUARDO PORTER</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/11/10/juniper-networks-changes-its-chief-again/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook: Juniper Networks Changes Its Chief, Again</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4059e9c7/sc/21/l/0Ldealbook0Bnytimes0N0C20A140C110C10A0Cjuniper0Enetworks0Echanges0Eits0Echief0Eagain0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Juniper said that its chief executive resigned following a review by the company’s board into his handling of negotiations with an unnamed customer, as well as his general leadership.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4059e9c7/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597464189/u/192/f/640387/c/34625/s/4059e9c7/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Revolving Door</category>
+      <category domain="http://www.nytimes.com/namespaces/">Juniper Networks Inc|JNPR|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Top Headline 2</category>
+      <category domain="http://www.nytimes.com/namespaces/">Hedge Funds</category>
+      <category domain="http://www.nytimes.com/namespaces/">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/">Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/">Juniper Networks Inc</category>
+      <pubDate>Tue, 11 Nov 2014 17:18:28 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/11/10/juniper-networks-changes-its-chief-again/</guid>
+      <dc:creator>By MICHAEL J. DE LA MERCED</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/technology/on-singles-day-in-china-a-push-to-improve-online-shoppings-slow-delivery.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Alibaba and Others Push to Improve Delivery, on Singles’ Day in China</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/40604bf2/sc/1/l/0L0Snytimes0N0C20A140C110C120Ctechnology0Con0Esingles0Eday0Ein0Echina0Ea0Epush0Eto0Eimprove0Eonline0Eshoppings0Eslow0Edelivery0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The country’s largest Internet merchants are working to improve logistics in China, a country plagued by delivery inefficiency.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/40604bf2/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597472450/u/192/f/640387/c/34625/s/40604bf2/sc/1/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JD.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <pubDate>Tue, 11 Nov 2014 16:33:20 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/technology/on-singles-day-in-china-a-push-to-improve-online-shoppings-slow-delivery.html</guid>
+      <dc:creator>By SHANSHAN WANG and PAUL MOZUR</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/11/11/welsh-carson-leads-100-million-investment-in-revel-systems/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook: Welsh Carson Leads $100 Million Investment in Revel Systems</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/405f9bc8/sc/24/l/0Ldealbook0Bnytimes0N0C20A140C110C110Cwelsh0Ecarson0Eleads0E10A0A0Emillion0Einvestment0Ein0Erevel0Esystems0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The private equity firm is taking a small equity stake in a start-up that makes point-of-sale payment software for retailers, restaurants and grocery stores.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/405f9bc8/sc/24/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597423841/u/192/f/640387/c/34625/s/405f9bc8/sc/24/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Revel Systems Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Falzone, Lisa</category>
+      <category domain="http://www.nytimes.com/namespaces/">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/">Computers and the Internet</category>
+      <pubDate>Tue, 11 Nov 2014 15:34:04 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/11/11/welsh-carson-leads-100-million-investment-in-revel-systems/</guid>
+      <dc:creator>By WILLIAM ALDEN</dc:creator>
+      <media:credit scheme="urn:ebu">Earl Wilson/The New York Times</media:credit>
+      <media:description>Lisa Falzone, the chief executive and co-founder of Revel Systems.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/business/dbpix-falzone/dbpix-falzone-moth-v2.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://dealbook.nytimes.com/2014/11/10/gopro-and-founder-nicholas-woodman-to-sell-more-shares-post-i-p-o/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>DealBook: GoPro and Its Founder to Sell More Shares 5 Months After I.P.O.</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4057444e/sc/36/l/0Ldealbook0Bnytimes0N0C20A140C110C10A0Cgopro0Eand0Efounder0Enicholas0Ewoodman0Eto0Esell0Emore0Eshares0Epost0Ei0Ep0Eo0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>GoPro is hoping to circumvent a lockup period by working with shareholders to sell stock in a managed offering&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4057444e/sc/36/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Woodman, Nicholas</category>
+      <category domain="http://www.nytimes.com/namespaces/">Top Headline 2</category>
+      <category domain="http://www.nytimes.com/namespaces/">Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/">I.P.O./Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/">GoPro</category>
+      <category domain="http://www.nytimes.com/namespaces/">Initial Public Offerings</category>
+      <pubDate>Tue, 11 Nov 2014 15:13:26 GMT</pubDate>
+      <guid isPermaLink="false">http://dealbook.nytimes.com/2014/11/10/gopro-and-founder-nicholas-woodman-to-sell-more-shares-post-i-p-o/</guid>
+      <dc:creator>By MICHAEL J. DE LA MERCED</dc:creator>
+      <media:credit scheme="urn:ebu">GoPro</media:credit>
+      <media:description>An image taken by a GoPro Hero4 Silver camera.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/business/dbpix-gopro-1/dbpix-gopro-1-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/11/github-hits-the-cloud/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: GitHub Hits the Cloud</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/405fcc79/sc/4/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C110Cgithub0Ehits0Ethe0Ecloud0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The popular method of creating software says its business version will be available for direct use on the most popular public cloud.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/405fcc79/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Enterprise Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/">Preston-Werner, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Amazon.com Inc|AMZN|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">GitHub Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Software</category>
+      <pubDate>Tue, 11 Nov 2014 15:00:43 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/11/github-hits-the-cloud/</guid>
+      <dc:creator>By QUENTIN HARDY</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/10/oops-health-insurer-exposes-member-data/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Oops! Health Insurer Exposes Member Data</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4059e9c8/sc/36/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C10A0Coops0Ehealth0Einsurer0Eexposes0Emember0Edata0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Anthem Blue Cross, one of the largest health insurers in California, inadvertently sent emails to some members with demographic and health information in the subject lines.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4059e9c8/sc/36/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597477099/u/192/f/640387/c/34625/s/4059e9c8/sc/36/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/">California</category>
+      <category domain="http://www.nytimes.com/namespaces/">Anthem Blue Cross</category>
+      <pubDate>Tue, 11 Nov 2014 12:31:37 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/10/oops-health-insurer-exposes-member-data/</guid>
+      <dc:creator>By NATASHA SINGER</dc:creator>
+      <media:credit scheme="urn:ebu" />
+      <media:description>An email from Anthem Blue Cross, which contained personal information in the subject line, encouraged members to visit their doctors for check ups and to discuss certain medical screening tests.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/10/technology/10bits-anthem/10bits-anthem-moth-v2.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/12/business/international/us-and-china-overcome-hurdles-on-technology-pact.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>U.S. and China Overcome Hurdles on Technology Pact</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/405b99a1/sc/39/l/0L0Snytimes0N0C20A140C110C120Cbusiness0Cinternational0Cus0Eand0Echina0Eovercome0Ehurdles0Eon0Etechnology0Epact0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>An agreement to cut tariffs on an array of technology products is likely to be the most tangible economic outcome of President Obama’s visit to China.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/405b99a1/sc/39/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597444050/u/192/f/640387/c/34625/s/405b99a1/sc/39/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Asia-Pacific Economic Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Froman, Michael B</category>
+      <pubDate>Tue, 11 Nov 2014 05:57:05 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/12/business/international/us-and-china-overcome-hurdles-on-technology-pact.html</guid>
+      <dc:creator>By MARK LANDLER</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/11/business/media/sirius-xm-adds-show-based-on-popular-dance-songs-on-youtube.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Sirius XM Adds Show Based on Popular Dance Songs on YouTube</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/405b061b/sc/4/l/0L0Snytimes0N0C20A140C110C110Cbusiness0Cmedia0Csirius0Exm0Eadds0Eshow0Ebased0Eon0Epopular0Edance0Esongs0Eon0Eyoutube0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>“The YouTube EDM 15” will highlight trending electronic dance music and will be the second show by the satellite radio service based on YouTube data.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/405b061b/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597402172/u/192/f/640387/c/34625/s/405b061b/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chainsmokers (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jepsen, Carly Rae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Maroon 5 (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sirius XM Radio Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Psy (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mota, Bethany (1995- )</category>
+      <pubDate>Tue, 11 Nov 2014 05:01:02 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/11/business/media/sirius-xm-adds-show-based-on-popular-dance-songs-on-youtube.html</guid>
+      <dc:creator>By BEN SISARIO</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/10/groupon-too-turns-to-multiple-apps/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Groupon, Too, Turns to Multiple Apps</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4058fa08/sc/5/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C10A0Cgroupon0Etoo0Eturns0Eto0Emultiple0Eapps0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The daily deals company released Getaways, an app focused on travel and hotel deals.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4058fa08/sc/5/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597392097/u/192/f/640387/c/34625/s/4058fa08/sc/5/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">Groupon Inc|GRPN|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/">Groupon Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/">Mobile Applications</category>
+      <pubDate>Tue, 11 Nov 2014 03:14:15 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/10/groupon-too-turns-to-multiple-apps/</guid>
+      <dc:creator>By MIKE ISAAC</dc:creator>
+      <media:credit scheme="urn:ebu" />
+      <media:description>Getaways, a stand-alone mobile app from Groupon to help people find travel packages at discounted rates.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/10/business/10bits-groupon/10bits-groupon-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/10/business/media/with-high-maintenance-vimeo-invests-in-original-content.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>With ‘High Maintenance,’ Vimeo Invests in Original Content</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4051df97/sc/4/l/0L0Snytimes0N0C20A140C110C10A0Cbusiness0Cmedia0Cwith0Ehigh0Emaintenance0Evimeo0Einvests0Ein0Eoriginal0Econtent0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Vimeo, a video-sharing web service built to appeal to fans of higher-quality content than sites like YouTube, is directly funding an original series for the first time and hoping viewers will be willing to pay for it.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4051df97/sc/4/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597442061/u/192/f/640387/c/34625/s/4051df97/sc/4/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Yahoo! Inc|YHOO|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Netflix Inc|NFLX|NASDAQ</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Vimeo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">High Maintenance (Web-Original Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Amazon.com Inc|AMZN|NASDAQ</category>
+      <pubDate>Tue, 11 Nov 2014 03:07:13 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/10/business/media/with-high-maintenance-vimeo-invests-in-original-content.html</guid>
+      <dc:creator>By JONAH BROMWICH</dc:creator>
+      <media:credit scheme="urn:ebu">Chang W. Lee/The New York Times</media:credit>
+      <media:description>Kerry Trainor, Vimeo’s chief executive, at the website’s office in New York. He says the service caters to higher-quality creators.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/10/business/vimeo2/vimeo2-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/11/technology/obama-net-neutrality-fcc.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Obama Asks F.C.C. to Adopt Tough Net Neutrality Rules</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4056f42b/sc/21/l/0L0Snytimes0N0C20A140C110C110Ctechnology0Cobama0Enet0Eneutrality0Efcc0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>President Obama’s comments were his most direct effort to keep cable and telephone companies from providing special access to some content providers.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4056f42b/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597442063/u/192/f/640387/c/34625/s/4056f42b/sc/21/a2t.img" border="0"/&gt;</description>
+      <pubDate>Tue, 11 Nov 2014 01:57:52 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/11/technology/obama-net-neutrality-fcc.html</guid>
+      <dc:creator>By EDWARD WYATT</dc:creator>
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/11/world/europe/for-guccifer-hacking-was-easy-prison-is-hard-.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>For Guccifer, Hacking Was Easy. Prison Is Hard.</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/405a49bf/sc/1/l/0L0Snytimes0N0C20A140C110C110Cworld0Ceurope0Cfor0Eguccifer0Ehacking0Ewas0Eeasy0Eprison0Eis0Ehard0E0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>Marcel-Lehel Lazar, whose pseudonym celebrated “the style of Gucci and the light of Lucifer,” rampaged through the email of rich Americans, showing the ease of going rogue online.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/405a49bf/sc/1/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lehel, Marcel Lazar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <pubDate>Tue, 11 Nov 2014 01:40:42 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/11/world/europe/for-guccifer-hacking-was-easy-prison-is-hard-.html</guid>
+      <dc:creator>By ANDREW HIGGINS</dc:creator>
+      <media:credit scheme="urn:ebu">Cristian Movila for The New York Times</media:credit>
+      <media:description>Marcel-Lehel Lazar, a.k.a Guccifer, tormented various celebrities with no special skills beyond what he had picked up on the web.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/world/GUCCIFER/GUCCIFER-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://www.nytimes.com/2014/11/11/us/postal-service-discloses-major-data-theft.html?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Postal Service Discloses Major Theft of Its Employees’ Personal Data</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4057cd83/sc/21/l/0L0Snytimes0N0C20A140C110C110Cus0Cpostal0Eservice0Ediscloses0Emajor0Edata0Etheft0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>The agency told employees that an attack “potentially compromised” databases containing names, addresses, birth dates and Social Security numbers.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4057cd83/sc/21/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597455528/u/192/f/640387/c/34625/s/4057cd83/sc/21/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Identity Theft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <pubDate>Tue, 11 Nov 2014 01:24:37 GMT</pubDate>
+      <guid isPermaLink="false">http://www.nytimes.com/2014/11/11/us/postal-service-discloses-major-data-theft.html</guid>
+      <dc:creator>By DAVID E. SANGER</dc:creator>
+      <media:credit scheme="urn:ebu">John Gress/Reuters</media:credit>
+      <media:description>Rafael Matos sorts mail in Chicago in 2012. The Postal Service told its employees that an attack “potentially compromised” databases containing their names, birth dates, addresses and Social Security numbers.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/11/us/POSTAL/POSTAL-moth.jpg" />
+    </item>
+    <item>
+      <atom:link href="http://bits.blogs.nytimes.com/2014/11/10/iphone-text-messages/?partner=rss&amp;emc=rss" rel="standout" />
+      <title>Bits Blog: Apple Releases Web Tool for iPhone Switchers</title>
+      <link>http://rss.nytimes.com/c/34625/f/640387/s/4058545c/sc/5/l/0Lbits0Bblogs0Bnytimes0N0C20A140C110C10A0Ciphone0Etext0Emessages0C0Dpartner0Frss0Gemc0Frss/story01.htm</link>
+      <description>A new web tool allows former iPhone users to deregister their phone numbers from Apple’s proprietary messaging service, iMessage.&lt;img width='1' height='1' src='http://rss.nytimes.com/c/34625/f/640387/s/4058545c/sc/5/mf.gif' border='0'/&gt;&lt;br clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/rc/1/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/211597390912/u/192/f/640387/c/34625/s/4058545c/sc/5/a2t.img" border="0"/&gt;</description>
+      <category domain="http://www.nytimes.com/namespaces/">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/">Text Messaging</category>
+      <pubDate>Tue, 11 Nov 2014 00:30:40 GMT</pubDate>
+      <guid isPermaLink="false">http://bits.blogs.nytimes.com/2014/11/10/iphone-text-messages/</guid>
+      <dc:creator>By BRIAN X. CHEN</dc:creator>
+      <media:credit scheme="urn:ebu">Justin Sullivan/Getty Images</media:credit>
+      <media:description>Apple advises those who still have an iPhone but plan on switching to something else to turn iMessage off in the phone’s settings first.</media:description>
+      <media:content height="151" lang="" width="151" url="http://graphics8.nytimes.com/images/2014/11/10/business/10bits-iphone/10bits-iphone-moth.jpg" />
+    </item>
+  </channel>
+</rss>
