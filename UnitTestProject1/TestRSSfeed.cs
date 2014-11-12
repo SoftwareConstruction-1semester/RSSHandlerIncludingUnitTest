@@ -14,16 +14,15 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestLoadXML()
         {
-            // test if the returning xdocument has a channel tag?
-
+            // test if the returning xdocument has a item tags?
             bool hasChannelTag = false;
-
-            string fakeRSS =
-                @"c:\users\ebva.rhs\documents\visual studio 2013\Projects\RSSHandler\UnitTestProject1\fakeRSSfeed.xml";
+            string fakeRSS = @"fakeRSSfeed.xml";
             XDocument xdoc = RssHandler.LoadRSS(fakeRSS);
-
             IEnumerable<XElement> items = xdoc.Descendants("item");
+            Assert.IsTrue(items.FirstOrDefault() != null);
 
+            // test if it has a channel tag
+            IEnumerable<XElement> items = xdoc.Descendants("channel");
             Assert.IsTrue(items.FirstOrDefault() != null);
 
         }
