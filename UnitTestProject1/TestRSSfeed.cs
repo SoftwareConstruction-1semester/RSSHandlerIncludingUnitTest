@@ -33,7 +33,7 @@ namespace UnitTestProject1
             XDocument xdoc = RssHandler.LoadRSS(fakeRSS);
             List<String> titles = RssHandler.RetrieveTitles(xdoc);
             Assert.IsTrue(titles[0].Equals("U.S. and China Reach Climate Deal After Months of Talks"));
-            
+            Assert.IsTrue(titles.Count == 25);
         }
     }
 }

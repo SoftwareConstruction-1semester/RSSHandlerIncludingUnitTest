@@ -29,9 +29,9 @@ namespace RSSHandler
         {
             List<String> titles = new List<string>();
             IEnumerable <XElement> items = RssFeed.Descendants("item");
-            foreach (XElement title in items)
+            foreach (XElement item in items)
             {
-                titles.Add(title.Element("title").Value);
+                titles.Add(item.Element("title").Value);
             }
             return titles;
 
@@ -41,7 +41,7 @@ namespace RSSHandler
         {
             return "";
         }
-
+        //
 
     }
 }
